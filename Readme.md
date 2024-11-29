@@ -57,7 +57,7 @@ localStorage.removeItem('sentEmails');
 ## Установка
 Инструкции по установке и запуску проекта:
 ```bash
-git clone https://github.com/your-username/project-name.git
-cd project-name
+git clone https://github.com/IlyaKLMNV/butler.git
+cd butlertt
 npm install
 npm run dev
